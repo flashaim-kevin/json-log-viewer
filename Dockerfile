@@ -1,4 +1,4 @@
-FROM node:8.17
+FROM node:12.15
 
 WORKDIR /logs
 
